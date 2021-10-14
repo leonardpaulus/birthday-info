@@ -44,7 +44,9 @@ h5 {
 
 .submitbutton {
   background-color: yellowgreen;
-  color: white;
+  color: #3c0072;
+  border: none;
+  padding: .4rem;
 }
 
 .submitform {
