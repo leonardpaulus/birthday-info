@@ -41,3 +41,14 @@ h5 {
   align-content: center;
   justify-items: center;
 }
+
+.submitbutton {
+  background-color: yellowgreen;
+  color: white;
+}
+
+.submitform {
+  display: grid;
+  place-items: center;
+  gap: 1rem;
+}
