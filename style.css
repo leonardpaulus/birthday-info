@@ -47,10 +47,11 @@ h5 {
   color: #3c0072;
   border: none;
   padding: .4rem;
+  font-family: var(--font-family)
 }
 
 .submitform {
   display: grid;
   place-items: center;
-  gap: 1rem;
+  gap: 1em;
 }
